@@ -8,10 +8,4 @@ theme: 'readthedocs'
   #  - toc:
   #      permalink: false
   #
-#markdown_extensions:
-#  - admonition
-#  - codehilite:
-#      guess_lang: true
-#  - toc:
-#      permalink: false
 

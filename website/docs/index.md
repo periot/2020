@@ -1,8 +1,8 @@
-#<a href="top"></a> The Fourth International Workshop on Mobile and Pervasive Internet of Things (PerIoT 2020)
+# PerIoT 2020:  The Fourth International Workshop on Mobile and Pervasive Internet of Things
 
-##<a href=dummy></a> (co-located with [IEEE PerCom 2020](http://www.percom.org/))
+## <a href=dummy></a> (co-located with  [IEEE PerCom 2020](http://www.percom.org/))
 
-##<a href=dummy></a> March 23-27, 2020, Austin, Texas, USA
+## <a href=dummy></a> March 23-27, 2020, Austin, Texas, USA
 
 
 The  Internet-of-Things (IoT) is a  novel  paradigm  that  is  rapidly  gaining  ground  in  the  scenario  of  modern  wireless   telecommunications.   The   IoT   enables   large   numbers   of   previously   unconnected   devices   to  communicate  and  exchange  data  and  deal  with  services  that  span  areas  from  healthcare  to  transportation  and  much  more,  with  the  potential  for  significant  benefits  to  people  and  quality  of  life.  In  recent  years,  the  Internet  has  become  increasingly  pervasive  allowing  people  to  connect  anytime  and  everywhere  to  achieve  pervasiveness  and  mobility.  The  coupling  among  mobile  technology,  embedded  objects,  and  a  worldwide   pervasive   communication   infrastructure   constitutes   the   Mobile   and   Pervasive   Internet-of-Things.  However,  the  domain  of  mobile  and  pervasive  IoT  has  expanded  in  recent  years  which  gave  rise  to  few  new  challenges  like  1)  IoT  has  quickly  evolved  to  a  new  appified  era  where  third-party  developers  can   write  apps  for  IoT  platforms   using  programming  frameworks,  2)   with   the   advent   of   emerging   IoT  technologies  like  industrial  IoT,  agriculture  IoT  and  narrowband  IoT,  new  research  problems  are  surfacing  related  to  connectivity  and  data  storage,  and  3)  the  confluence  of  IoT  with  augmented  and  virtual  reality  (AR/VR),  there  are  newer  challenges  to  enable  digital  representation  of  physical  objects.  The  solution  to  these  new  challenges  will  enable  a  detailed  characterization  of  the  real  physical  applications,  as  well  as  a  rich  set  of  pervasive  interactions  with  the  physical  world.    

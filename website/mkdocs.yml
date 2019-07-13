@@ -1,0 +1,17 @@
+site_name: PerIoT 2020
+site_author: Farzana Rahman
+theme: 'readthedocs'
+#  name: 'material'
+
+
+  #markdown_extensions:
+  #  - toc:
+  #      permalink: false
+  #
+#markdown_extensions:
+#  - admonition
+#  - codehilite:
+#      guess_lang: true
+#  - toc:
+#      permalink: false
+

@@ -45,8 +45,8 @@ TBD
 Papers submission deadline: **November 11, 2019**<br>
 Author notification due: **December  20,  2019**<br>
 Camera ready deadline: **January  31,  2020 (FIRM)**<br>
-Author registration deadline: **See  PERCOM  2020  website **<br>
-Workshop date: **TBD**
+Author registration deadline: **See  PERCOM  2020  website**<br>
+Workshop date: **March 27, 2019 (Friday)**
 
 ## Call for Papers (CFP)
 
@@ -68,25 +68,47 @@ Submission link: [TBD](#)
 
 #### <a href="dummy"></a> **Co-Chairs**
 
-  - [**Endadul Hoque**](#)<br>
+  - [**Endadul Hoque**](https://endadul.github.io)<br>
     Syracuse University, Syracuse NY<br>
     Email: enhoque@syr.edu
 
-  - [**Farzana Rahman**](#)<br>
-    Florida International University, Miami FL<br>
-    Email: farahman@fiu.edu
+  - [**Farzana Rahman**](https://farahman.github.io/)<br>
+    Syracuse University, Syracuse NY<br>
+    Email: frahma02@syr.edu
 
-  - **Puya Ghazizadeh**<br>
+  - [**Puya Ghazizadeh**](https://ghazizadehphd.github.io/)<br>
     Seton Hall University, NJ<br>
     Email: puya.ghazizadeh@shu.edu
 
 #### <a href="dummy"></a> **Technical Program Committee**
 
-  - TBD
+  - Baris Aksanli, San Diego State University, USA
+  - Samy El-Tawab, James Madison University, USA
+  - Reza Fathi, University of Houston, USA
+  - Carolina Fuentes, University of Nottingham, UK
+  - Aida Ghazizadeh, Old Dominion University, USA
+  - Medya Ghazizadeh, Google, USA
+  - Syed Hussain, Purdue University, USA
+  - Christian Krupitzer, University of Würzburg, Germany
+  - Laura Rafferty, University of Ontario Institute of Technology, CA
+  - Asif Salekin, Syracuse University, USA
+  - Ahmad Salman, James Madison University, USA
+  - Sharif Shahnewaz, The College of New Jersey, USA
+  - Yuzhe Tang, Syracuse University, USA
+
+
+#### <a href="dummy"></a> **Steering Committee**
+
+  - Elisa Bertino, Purdue University, USA
+  - Sajal K. Das, Missouri University of Science and Technology, USA
+  - Zhiqiang Lin, Ohio State University, USA
+  - Nirmalya Roy, University of Maryland Baltimore County, USA
+
 
 #### <a href="dummy"></a> **Publicity Chair**
 
-  - **TBD**<br/>
+  - Mohammad Arif Ul Alam, University of Massachusetts Lowell, USA
+  - Samy El-Tawab, James Madison University, USA <br/>
 
 
 

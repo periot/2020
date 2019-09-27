@@ -62,7 +62,7 @@ PerIoT  will  be  held  in  conjunction  with  IEEE  PERCOM  2020.  All  accepte
 
 ** Each   accepted   workshop   paper   requires   a   full   PerCom   registration   (no   registration   is   available   for  workshops  only)**;  otherwise,  the  paper  will  be  withdrawn  from  publication.  The  authors  of  all  accepted  papers  must  guarantee  that  their  paper  will  be  presented  at  the  workshop.  Papers  not  presented  at  the  workshop  will  be  considered  as  a  "**no-show**"  and  it  will  **not  be  included  in  the  proceedings**.  
 
-Submission link: [TBD](#)
+Submission link: [TBD](http://edas.info/N26578)
 
 ## Organizers
 
@@ -95,6 +95,7 @@ Submission link: [TBD](#)
   - Ahmad Salman, James Madison University, USA
   - Sharif Shahnewaz, The College of New Jersey, USA
   - Yuzhe Tang, Syracuse University, USA
+  - Mustafa ElNainay, Alexandria University, Egypt
 
 
 #### <a href="dummy"></a> **Steering Committee**

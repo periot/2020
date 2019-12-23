@@ -86,9 +86,7 @@ Submission link: [http://edas.info/N26578](http://edas.info/N26578)
   - Baris Aksanli, San Diego State University, USA
   - Samy El-Tawab, James Madison University, USA
   - Reza Fathi, University of Houston, USA
-  - Carolina Fuentes, University of Nottingham, UK
   - Aida Ghazizadeh, Old Dominion University, USA
-  - Medya Ghazizadeh, Google, USA
   - Syed Hussain, Purdue University, USA
   - Christian Krupitzer, University of Würzburg, Germany
   - Laura Rafferty, University of Ontario Institute of Technology, CA
@@ -96,7 +94,6 @@ Submission link: [http://edas.info/N26578](http://edas.info/N26578)
   - Ahmad Salman, James Madison University, USA
   - Sharif Shahnewaz, The College of New Jersey, USA
   - Yuzhe Tang, Syracuse University, USA
-  - Mustafa ElNainay, Alexandria University, Egypt
 
 
 #### <a href="dummy"></a> **Steering Committee**

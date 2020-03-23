@@ -38,7 +38,7 @@ The   aim   of   this   workshop   is   to   bring   together   practitioners   
 
 
 ## Program
-TBD
+The program is available here [link](./PerIoT-2020-program.pdf)
 
 ## Important Dates
 
